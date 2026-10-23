@@ -1,0 +1,1138 @@
+{
+  "ManuscriptATMVariance": {
+    "origin": "manuscript",
+    "sha256": "a5c36b2347cd32541a65fa7a8883c7f755c6ce0a590822db2ed2723b46f32314"
+  },
+  "ManuscriptAlpha": {
+    "origin": "manuscript",
+    "sha256": "c9bf8a35bbeee670f9b54c2be0c543a80334b9bd5d8e5ae443060d2bafbfda0c"
+  },
+  "ManuscriptAsymptoticAssembly": {
+    "origin": "manuscript",
+    "sha256": "f0a99a45f0e4c9cc64808d8d6f049fa1defad047033e81ab62e5ebce036bb61a"
+  },
+  "ManuscriptBachelier": {
+    "origin": "manuscript",
+    "sha256": "7d454c08d9b0405c93aa1a1382cf61f5de2073f6814ff8d08bacbd295f41634d"
+  },
+  "ManuscriptBarPsi": {
+    "origin": "manuscript",
+    "sha256": "3bf7c83cb977c3caa4abd7cd77d4f9ae76918b5c30c6bb5a80e7cc3f348015a8"
+  },
+  "ManuscriptBarPsiBoundary": {
+    "origin": "manuscript",
+    "sha256": "80281f9971973646de4ca6d6f50c419d72fe80e83fdfa10dadd83323e291dfee"
+  },
+  "ManuscriptBarPsiDerivative": {
+    "origin": "manuscript",
+    "sha256": "570c64d3e6d63f300dfa024699caa2aaefa8f2b1b4b3318293badaae2d72ed46"
+  },
+  "ManuscriptBarPsiTestIBP": {
+    "origin": "manuscript",
+    "sha256": "980c225ef0a008d0c8cedd6c98bedc507e2e086175eb768ace9ceb871b851f78"
+  },
+  "ManuscriptBarrierLimit": {
+    "origin": "manuscript",
+    "sha256": "4220085b26324bca15db3547b2a67153d3ef301fc3999ec122d4653657dc08c4"
+  },
+  "ManuscriptBarrierPath": {
+    "origin": "manuscript",
+    "sha256": "d8d3feb0f5cfd4fe4ecd6740988141cd5308bf38c414e9d413e183229f08f08d"
+  },
+  "ManuscriptBlackScholes": {
+    "origin": "manuscript",
+    "sha256": "8df1269c2a36aa644d9bc9de3b259a49e2f5b7454340182698d022574453fc4a"
+  },
+  "ManuscriptBlackScholesBaseline": {
+    "origin": "manuscript",
+    "sha256": "0e85559cd8863b35177054d2dfbc029948734ffc225fed3f8defec2c874278f2"
+  },
+  "ManuscriptBlackScholesExpansion": {
+    "origin": "manuscript",
+    "sha256": "aa1e0d2cc67c84d87f4f2e6c015fdf157174e1144391a47b473552d48831a718"
+  },
+  "ManuscriptBlackScholesGamma": {
+    "origin": "manuscript",
+    "sha256": "3e560600ca6c45634cf19ec552114f3bd4c2b9a68b2a5cb3bf99ce2cbb8b85f0"
+  },
+  "ManuscriptBlackScholesNormalized": {
+    "origin": "manuscript",
+    "sha256": "19c274c558e5cc10fd9093fa8e828ff0d8c29083e61f0e5fc7f6d74119fb9eb8"
+  },
+  "ManuscriptBlackScholesPhysical": {
+    "origin": "manuscript",
+    "sha256": "58e2f9fe76851ed9f9634790d63865313ffaf076cb45ea6c25eac99851359808"
+  },
+  "ManuscriptBlackScholesPricing": {
+    "origin": "manuscript",
+    "sha256": "02986489bd11c975fef4201e30158c5ec4797b38062d989fd027365cec55da36"
+  },
+  "ManuscriptBlackScholesReflection": {
+    "origin": "manuscript",
+    "sha256": "bcc6df748acda0b52e99ad7ad54900994de9b84ec903444911d5dfe513ea35ad"
+  },
+  "ManuscriptBlackScholesStrict": {
+    "origin": "manuscript",
+    "sha256": "90b96c13e0e0866329ef6c5b5ab1b5ec38b762b77af4f3ae7d941cebad24e636"
+  },
+  "ManuscriptBoundedItoMean": {
+    "origin": "manuscript",
+    "sha256": "9d0b368d53b4a4ecfbff19c1593942ac7d69ec60c77ed5843a69416013b81b16"
+  },
+  "ManuscriptBoundedItoMoments": {
+    "origin": "manuscript",
+    "sha256": "94159eb0b499a602a861f27054c0763eb3665d1e66b6bcd50f9deb3fdf5bbf6c"
+  },
+  "ManuscriptBoundedItoUI": {
+    "origin": "manuscript",
+    "sha256": "19054bfbcee4541f733f8ab1f1c57f9c2ad08354eebadc0e52949497aec8b3ff"
+  },
+  "ManuscriptBracketLimit": {
+    "origin": "manuscript",
+    "sha256": "526e2f91052cbb3c39421d4a74672be1a04ac33b7a23c1124d0e69ceb6b81c64"
+  },
+  "ManuscriptBridgeIntegrability": {
+    "origin": "manuscript",
+    "sha256": "d9115e2b5727113224998b72bfd12201ed17bd396cdd308f606bb4e4ad7e61e2"
+  },
+  "ManuscriptBridgeProfile": {
+    "origin": "manuscript",
+    "sha256": "8e4f2dd2033c5006a0334db21ff955caf048709a4ce68bd253d7ea1b3c87e0ca"
+  },
+  "ManuscriptBridgeTestIntegrability": {
+    "origin": "manuscript",
+    "sha256": "498d92b9cc07bde25fe1457cf97bdd2815c7b245345bf3a098afb6a9fdddcec9"
+  },
+  "ManuscriptBrownianBarrierTest": {
+    "origin": "manuscript",
+    "sha256": "e1273c42f34f2b71626b16787847fe6660fd1621fcd4537c84fe780e298192a7"
+  },
+  "ManuscriptBrownianCDF": {
+    "origin": "manuscript",
+    "sha256": "9dca9ed840940baf87d377c52114fa76271d07cabf5ce382276ea89f9de3eba0"
+  },
+  "ManuscriptBrownianCall": {
+    "origin": "manuscript",
+    "sha256": "75f47d3f4439bbc6a5bd3d14032b18a6593d904f8f82b6ebe54f7d7db445fc06"
+  },
+  "ManuscriptBrownianCallGeneral": {
+    "origin": "manuscript",
+    "sha256": "17ac0fb032c6da1cd28dd1d1fba13a039b2568328d8c81d08539142854053849"
+  },
+  "ManuscriptBrownianConditionalMoment": {
+    "origin": "manuscript",
+    "sha256": "02eb248a8962b6cb4fc76f4ff9e24148a728e4b9603ca1d9d6d544873676f42e"
+  },
+  "ManuscriptBrownianCrossLaw": {
+    "origin": "manuscript",
+    "sha256": "bb373bfa806017865aa793b68049085f80fa844a2d9c4597c10807343f03e841"
+  },
+  "ManuscriptBrownianDownBarrier": {
+    "origin": "manuscript",
+    "sha256": "6ee81da9b0cf4bc253459812401cb0ac324b4075e98ac636a46f0b35987e3fd2"
+  },
+  "ManuscriptBrownianDriftedDensity": {
+    "origin": "manuscript",
+    "sha256": "81c0c103e278747efe236228f0f03bdac084135fc34b7a3303cc137bbc617be8"
+  },
+  "ManuscriptBrownianEndpoint": {
+    "origin": "manuscript",
+    "sha256": "739f257d8f13624a2ccd59d680a680c1c94482edaa65b5c8770068ea27d3c2ab"
+  },
+  "ManuscriptBrownianFuture": {
+    "origin": "manuscript",
+    "sha256": "083e0a6bb825d97111d43eea099e87aa73e70a33433351b3a9c8459470fe2b4a"
+  },
+  "ManuscriptBrownianJointCDF": {
+    "origin": "manuscript",
+    "sha256": "8bfbb5f50b078dc6ca818b3559855451d05b2c6aac36c08dc5539f646db56386"
+  },
+  "ManuscriptBrownianJointTangent": {
+    "origin": "manuscript",
+    "sha256": "c1305c56e37af27aa8802ae2712ba3269e77eb41cf379368f6eed2381e342389"
+  },
+  "ManuscriptBrownianKilledMeasure": {
+    "origin": "manuscript",
+    "sha256": "95fe27f3e499b8496b7eab5a458a1a916d0e7fb8b0dffa43de81ca72d1b6c43e"
+  },
+  "ManuscriptBrownianKilledPut": {
+    "origin": "manuscript",
+    "sha256": "0c72b5bc7c070dec003f3ee1704d28d93174640d8c2c327920c37797104d1af0"
+  },
+  "ManuscriptBrownianLinearCovariance": {
+    "origin": "manuscript",
+    "sha256": "7357031f58187e057144cb18c9f375da76ca8f31a757313ee425bce5ccc9e467"
+  },
+  "ManuscriptBrownianMaximum": {
+    "origin": "manuscript",
+    "sha256": "36d453c2a3400f1eaa0521257392b2426b3e255836165557144f4ad1ca1b5992"
+  },
+  "ManuscriptBrownianPathBound": {
+    "origin": "manuscript",
+    "sha256": "2e7d12cd9a2ddddc4743485f18739ee1c4a8620440f92fa86bcb44d4cda36d05"
+  },
+  "ManuscriptBrownianPathScaling": {
+    "origin": "manuscript",
+    "sha256": "693d32a191721c6679f282c16894fbba0253043a5430b3b0a34bdbf2e5fea584"
+  },
+  "ManuscriptBrownianPreLaw": {
+    "origin": "manuscript",
+    "sha256": "4d32d813ee69549ba796fd28ee905582b00fe9d37b5242e8e9d3b18015fc5d1e"
+  },
+  "ManuscriptBrownianPrefixScaling": {
+    "origin": "manuscript",
+    "sha256": "bc597ed3ab43d4a70c94ecae6a84226a6645d60369f6832273f5491aca6def52"
+  },
+  "ManuscriptBrownianPsiMoment": {
+    "origin": "manuscript",
+    "sha256": "99bde73c50fba892187af7409cfec2b9a196bdb3b695aff93483796a36c39ef4"
+  },
+  "ManuscriptBrownianPutGeneral": {
+    "origin": "manuscript",
+    "sha256": "e3d55fe8c222d037301aea29e92a83f56b286490c3379d393b405cf1a8aa8348"
+  },
+  "ManuscriptBrownianRegression": {
+    "origin": "manuscript",
+    "sha256": "b0222bd85402a7212440bd6f5d908b6af72a8668c87c4e124de1798ea671fcc0"
+  },
+  "ManuscriptBrownianRegressionTest": {
+    "origin": "manuscript",
+    "sha256": "0be81e28d969f8cf2b473d195e34bc88730df5afe4d68b564481836178361a16"
+  },
+  "ManuscriptBrownianScaling": {
+    "origin": "manuscript",
+    "sha256": "9f5639bf53fabb98d865200113301abda6f2dc2f4bd09ce9889f287ba52a1768"
+  },
+  "ManuscriptBrownianSegments": {
+    "origin": "manuscript",
+    "sha256": "122c0a5f09621a45c78af46fe1a6cc494cf478b092a0d825ec0a4e773eca4d24"
+  },
+  "ManuscriptBrownianStrictSurvival": {
+    "origin": "manuscript",
+    "sha256": "4651fd865e72f12e0b5068e57199516499b8517698211e5e4a48c2126fb41a56"
+  },
+  "ManuscriptBrownianTilt": {
+    "origin": "manuscript",
+    "sha256": "62b5832a9ef270df0d0b94929b52c74689537de381ab994526798ffa13c763dd"
+  },
+  "ManuscriptBrownianTwoStep": {
+    "origin": "manuscript",
+    "sha256": "ef08785e3600f75623c33dbf11a4ec1ae489d018eb63b1e8c99030e0b86a5624"
+  },
+  "ManuscriptBrownianWeightedKernelMoment": {
+    "origin": "manuscript",
+    "sha256": "2296b8f5d0a5b4e0e5e6fd531ec84a4438eff7316a1160d308f29908de4275bd"
+  },
+  "ManuscriptBrownianWeightedTwoStep": {
+    "origin": "manuscript",
+    "sha256": "550d960d3903e7bee5c0ef8d6b6576e46dc81a11a08da19a06ece191513fe69e"
+  },
+  "ManuscriptCappedBarrier": {
+    "origin": "manuscript",
+    "sha256": "07d4acaf90cba3ff8e7bc822b5e06cf8d54ac5ce56542ed7abac2ff4d28eff2f"
+  },
+  "ManuscriptChapmanKolmogorov": {
+    "origin": "manuscript",
+    "sha256": "72424df8ceb594ddd01bedbdd07d27c92ead6534390bbf53ca966c9dc3c16891"
+  },
+  "ManuscriptClock": {
+    "origin": "manuscript",
+    "sha256": "701c7084356853081ed9f6e5ecbd60cf95ed9a2dc565ada94b5c36e51f998ffc"
+  },
+  "ManuscriptClockComposition": {
+    "origin": "manuscript",
+    "sha256": "ecef9f7c45eca0dbdfb5735bb815860f2ec4093d3c06a82d221855e757f61d1d"
+  },
+  "ManuscriptClockIto": {
+    "origin": "manuscript",
+    "sha256": "8b6cb3b263fb6ea069afad12d4f54562b6fdefc9ea3431b0b4f74e38904e3a44"
+  },
+  "ManuscriptClockTotalLimit": {
+    "origin": "manuscript",
+    "sha256": "6cce42e697da71234e963b4e64a09080d66501d0a3f7cad838212f19d077058d"
+  },
+  "ManuscriptConditionalCoefficient": {
+    "origin": "manuscript",
+    "sha256": "b13f77f9d32289e4d8f93e2c9ae358bac403f0a10830dfeac775b1bc4deadb81"
+  },
+  "ManuscriptConditionalMaximum": {
+    "origin": "manuscript",
+    "sha256": "7154d59d6a27427d905103a47a5dc8d48ab0ede7d926ef2c9533236b2070e32a"
+  },
+  "ManuscriptConditionalPsi": {
+    "origin": "manuscript",
+    "sha256": "cc6309190c768ad1649bce4fae5e5581531ec25adea05f08aa87119a089731ac"
+  },
+  "ManuscriptControl": {
+    "origin": "manuscript",
+    "sha256": "c203e3b2178bee79d600edd99fc9f73f6edf63d7bdc554d3c08819d850738e39"
+  },
+  "ManuscriptCoordinateMean": {
+    "origin": "manuscript",
+    "sha256": "ab804ac8b8d6bfd47e7b05b2c5ec43eec3a2a6c38fae3c162e7d46778bf9cf8c"
+  },
+  "ManuscriptCoordinateTangent": {
+    "origin": "manuscript",
+    "sha256": "da19d524e00fb5d533425b47a05301a9062a3eb2d780bcb7b2ebb1db9da5b132"
+  },
+  "ManuscriptCorollary": {
+    "origin": "manuscript",
+    "sha256": "90d8ee2a76dcea22c89ee815e7b75f1379b807b127f34808f7ac734744a8cd58"
+  },
+  "ManuscriptCorollaryCoefficient": {
+    "origin": "manuscript",
+    "sha256": "5bce629e69bb8966c3ad980e886fab0fe7df6f242aa2b591c150629d5f728456"
+  },
+  "ManuscriptCorollaryPrice": {
+    "origin": "manuscript",
+    "sha256": "053fd0a635cc28228de23be11dd5682ee8e60204e12f4ca23729cf269da415e4"
+  },
+  "ManuscriptDeterministicBracketLaw": {
+    "origin": "manuscript",
+    "sha256": "ad32d0d4cbc929b94eef425ea1d7582d451dc17362cad7a1085e2a52a8090a38"
+  },
+  "ManuscriptDeterministicIntegralJointLaw": {
+    "origin": "manuscript",
+    "sha256": "73934733bf9bb172a9ff64a15a2b99462f14e1239487af3bd6a3a3548b8b5cdb"
+  },
+  "ManuscriptDeterministicIntegralPath": {
+    "origin": "manuscript",
+    "sha256": "95238f6435e2a0b19f4f346b518543fbd5d6dc3be16fba5e8c56f8889fb3ebfb"
+  },
+  "ManuscriptDeterministicItoConstruction": {
+    "origin": "manuscript",
+    "sha256": "84da42be36e3733c811eb1f9386635c97b5302cbb9db1745d73634f3f5ac112b"
+  },
+  "ManuscriptDeterministicItoDifference": {
+    "origin": "manuscript",
+    "sha256": "13d879d9747e171d3c695685db2de07dfcd876bca5c66d9ed64f0f8459f0057e"
+  },
+  "ManuscriptDeterministicItoLaw": {
+    "origin": "manuscript",
+    "sha256": "21c2d2f5c03757beea5a23f5cf3a5060bba52a88c771c119c63fc2f9515bc289"
+  },
+  "ManuscriptDeterministicTimeChange": {
+    "origin": "manuscript",
+    "sha256": "1e6928a02e422ff2e2f5c799bcc6d19e6e9c0686051ae30ddfe93db57e72a0ea"
+  },
+  "ManuscriptDeterministicVolatilityModel": {
+    "origin": "manuscript",
+    "sha256": "c30eaabd9dad7045db5c616bed17bb0014e47810b7efbddb89500bc2d2d14264"
+  },
+  "ManuscriptDriftBounds": {
+    "origin": "manuscript",
+    "sha256": "55010ff19242d24123effd4262e32dafc5ed890dccd4856eb467c6f155c1c33e"
+  },
+  "ManuscriptDriftFubini": {
+    "origin": "manuscript",
+    "sha256": "efdf7803e9addbebc3120f4081bb6837d4e1e878e7d8e87272ad42b5a0649f91"
+  },
+  "ManuscriptDriftIdentification": {
+    "origin": "manuscript",
+    "sha256": "f449c57c507c45e3ab92accff62bff2bbf755948063985cfc7cce82dff2442bd"
+  },
+  "ManuscriptDriftMeasurable": {
+    "origin": "manuscript",
+    "sha256": "48ada512aec28c99af281a11dc79452321874ce7d320ffaf09b3fc37dec0d265"
+  },
+  "ManuscriptExponentialPathLimit": {
+    "origin": "manuscript",
+    "sha256": "2089337550c06c156d8e2075941a7d522146b4d84a1841cf41dcef4ab3e5b489"
+  },
+  "ManuscriptFamilyConstruction": {
+    "origin": "manuscript",
+    "sha256": "c1f2a34a753cd7324e60248ffac5e27d51a093ee7215ff26f719667184cf412b"
+  },
+  "ManuscriptFamilyTimeLimit": {
+    "origin": "manuscript",
+    "sha256": "922e90439f8f449fb49fb4c5d110b260ca21a172a4b4d841916de3dd46a082f5"
+  },
+  "ManuscriptFiniteBrownianCoefficient": {
+    "origin": "manuscript",
+    "sha256": "dacb45e8c61d3a55c6349a9a46e76bc2bff00eb34a9fafbecd85c4640788c529"
+  },
+  "ManuscriptFiniteBrownianLaw": {
+    "origin": "manuscript",
+    "sha256": "5b5dce04c114312d966019da199200ef8d46c53bba08cdbb4b5e82766a286556"
+  },
+  "ManuscriptFiniteDeterministicTimeChange": {
+    "origin": "manuscript",
+    "sha256": "7ff2c750dd290b21b8f4a97d2abb4ae631811abe89fb6453654baa770ceb01f6"
+  },
+  "ManuscriptFiniteExpectation": {
+    "origin": "manuscript",
+    "sha256": "5093eefa37c7c3413dbfcc7b85ecfc177c88e833a2970c7ef1803ca143826991"
+  },
+  "ManuscriptFiniteGeometricTimeChange": {
+    "origin": "manuscript",
+    "sha256": "ca7b8a1e3b0a548bbce377c2befaa08d58bbdb1b43c5d5e7ae985d4b778b1163"
+  },
+  "ManuscriptFiniteInMeasure": {
+    "origin": "manuscript",
+    "sha256": "103da29a3418d42ad40e21158ecaa348fb2f95ccbe4bd0f3af4ae69a94cffd64"
+  },
+  "ManuscriptFiniteSecondMoment": {
+    "origin": "manuscript",
+    "sha256": "a4aecfbfab67e5228d0850a23c5232ee8ba1ab99d93b2499d70ccccae4467827"
+  },
+  "ManuscriptFiniteUI": {
+    "origin": "manuscript",
+    "sha256": "f8dfc40e5fac8cc0964ade4666debdeceabc1873a68055596c77a76f92954bb1"
+  },
+  "ManuscriptFixedPairLimit": {
+    "origin": "manuscript",
+    "sha256": "e3324843ff6c489b0969a8478ad2e775a43a12fafbcbe07f44b119fbc3c03abf"
+  },
+  "ManuscriptForwardClockLimit": {
+    "origin": "manuscript",
+    "sha256": "df1865a734d776b2b200761525caf143a5fa44a334d037e2a619316e74c2ebf4"
+  },
+  "ManuscriptForwardDrift": {
+    "origin": "manuscript",
+    "sha256": "bef36fc02b6cd452211a122cadcf79a3e31293659779b0573b74fdff88fb227f"
+  },
+  "ManuscriptForwardFreezing": {
+    "origin": "manuscript",
+    "sha256": "c0d8ff6d5742dd1155ded185b4959cd1d957c0d1b1d4553a28a49df2af1d605b"
+  },
+  "ManuscriptForwardTotalLimit": {
+    "origin": "manuscript",
+    "sha256": "47c0affa24b1a9942b82b8d21db723d1c3382d3770f020e6dc30f64c3287fe75"
+  },
+  "ManuscriptFrozenStockApproximation": {
+    "origin": "manuscript",
+    "sha256": "d322ce4203a6ab17adfbb1282042b8be259407c76bc6ff23358e4d2f3381e9bf"
+  },
+  "ManuscriptFrozenStockError": {
+    "origin": "manuscript",
+    "sha256": "b5ff547a8649dc5eb1aa328d4b1a1e60a6b9181e2f5f9bc08b59d495650d3b04"
+  },
+  "ManuscriptGammaIntegral": {
+    "origin": "manuscript",
+    "sha256": "c93c80dbdda1d1f37ef0ea964ae455d7b6f01594606aa51b9c043bb98987d355"
+  },
+  "ManuscriptGaussianBounds": {
+    "origin": "manuscript",
+    "sha256": "571d5ee64f41f88899b6f4d055967f4363ca0797c406dea9e7926d45cc5f1ba8"
+  },
+  "ManuscriptGaussianConvolution": {
+    "origin": "manuscript",
+    "sha256": "15317070cfbe4c0b22b1dad95677b43ca1649242920e2b58a001175121e4d495"
+  },
+  "ManuscriptGaussianMoment": {
+    "origin": "manuscript",
+    "sha256": "a144e6600ffaa11cd33340931222c013b77d91c022c0d794c55361bf9239aa73"
+  },
+  "ManuscriptGaussianPairProcess": {
+    "origin": "manuscript",
+    "sha256": "7364d323242cd774288d1749f1abd95ab8d1dbf0999fcb971d2bcb6365e0a5a7"
+  },
+  "ManuscriptGaussianProduct": {
+    "origin": "manuscript",
+    "sha256": "1fcc08ecb3ed95d176749327a4fe725b1dbdc9e4f2a71d409d753f3613928c0e"
+  },
+  "ManuscriptGaussianTruncatedMoment": {
+    "origin": "manuscript",
+    "sha256": "3d3b1d9866d426753ade67c22e4acace37e79af92d7a9159c783dbf50264ad67"
+  },
+  "ManuscriptGaussianWeakLimit": {
+    "origin": "manuscript",
+    "sha256": "707cdfc79b1fe1cab82a100b8780c0f06c8d1e8f3869e71b20ca93a81b57c24b"
+  },
+  "ManuscriptGeometricCoefficientLimit": {
+    "origin": "manuscript",
+    "sha256": "28d4bac007509babd4b7fe4b2d41216c74a5ea741b7591bcf8edf3069b70a34b"
+  },
+  "ManuscriptGeometricModel": {
+    "origin": "manuscript",
+    "sha256": "90625886b27204ec2dcc5ddba30cd4ed863fc6df447899668e9be26bec3a154e"
+  },
+  "ManuscriptGeometricModelPrice": {
+    "origin": "manuscript",
+    "sha256": "008070a96b9fbc8d7253795b51d484a419b42cd3a47cdf7d57492c3c15f695e8"
+  },
+  "ManuscriptGeometricSDE": {
+    "origin": "manuscript",
+    "sha256": "f785602486e050dd3eb279559816d90a4fd3bf781bd598644dc81096c048cf16"
+  },
+  "ManuscriptGeometricWeakLimit": {
+    "origin": "manuscript",
+    "sha256": "90dbd8320dbb155020a0889f1510c4d6fe7b967a0a9fbbc4ff36b31a402076dd"
+  },
+  "ManuscriptIncompleteBeta": {
+    "origin": "manuscript",
+    "sha256": "130fe78bd70e331c3476fb41e6bbc146a3226150ac10977041a4f4a1865f618b"
+  },
+  "ManuscriptIndependentCoefficient": {
+    "origin": "manuscript",
+    "sha256": "43840ca4581a73da551047bfba886a426f5f22170507cf439b4b6354ad67543f"
+  },
+  "ManuscriptIndependentKernel": {
+    "origin": "manuscript",
+    "sha256": "4848a7ffd2b1d10068476ce4e557dc9ab102f63d05d2ff16325aa55ff305107b"
+  },
+  "ManuscriptIntegrableKernel": {
+    "origin": "manuscript",
+    "sha256": "a86086c83d935fccb95cf001a20e8cc7bf824d718062f6048d33b5cb4fefefdc"
+  },
+  "ManuscriptIntegralPathScaling": {
+    "origin": "manuscript",
+    "sha256": "18bbdb32bfea5b89a3567a8681be80b42f6c327f6ce102a781562899bcd9ccde"
+  },
+  "ManuscriptIntegratedBounds": {
+    "origin": "manuscript",
+    "sha256": "39350a943117f04e80c45eee90df4cd9f6fcd87fd69059e0991eae9dcdb802c5"
+  },
+  "ManuscriptIntegratedGaussianLimit": {
+    "origin": "manuscript",
+    "sha256": "0083875f2a34e0eb9daadd39358de51e2706381d9238ceeeb2f1f3a20838b7ef"
+  },
+  "ManuscriptIntegratedPolynomial": {
+    "origin": "manuscript",
+    "sha256": "50a2ff8c4956a5b5fa33977ff08a3b51f1478ee8c7503a118625ba07c067eb61"
+  },
+  "ManuscriptItoEndpointTangent": {
+    "origin": "manuscript",
+    "sha256": "67e5817bfed264eee1c2facdc4c8f38b318642a6c8b8d368b9416e0d4dcfab5b"
+  },
+  "ManuscriptItoExpectation": {
+    "origin": "manuscript",
+    "sha256": "a8e6baa58ee79086b6d7fc3f5b614f673f80410b77e771b3b0a67b3a83bd3523"
+  },
+  "ManuscriptItoFreezing": {
+    "origin": "manuscript",
+    "sha256": "8500b74fb4b8dbab8fb6f6f698829b4d2ff7a6fdc83673ead3af2ae7bbb4c3be"
+  },
+  "ManuscriptJointLawLimit": {
+    "origin": "manuscript",
+    "sha256": "49246551acb8f0a172cdd97e7483a17b1a20d47d4dbb0b7886b4a1161185e1df"
+  },
+  "ManuscriptJointPathTransfer": {
+    "origin": "manuscript",
+    "sha256": "89f29d5ebe93b6f1d26c28ea5e279dff55c6d70dd79569f225cf456b6ef3916a"
+  },
+  "ManuscriptKilledDensity": {
+    "origin": "manuscript",
+    "sha256": "ed555c4c25d4df1cde38b5ee07fc51e8836b2d345037664c87df9c7f2dac5353"
+  },
+  "ManuscriptKilledIto": {
+    "origin": "manuscript",
+    "sha256": "962d62887f251fe63f289bb5ca92dbb1e50f51581fe6ca5af2802b11786a37d5"
+  },
+  "ManuscriptKilledKernelComposition": {
+    "origin": "manuscript",
+    "sha256": "d7271d8f80ad8f4e6efd0f7c04601ded73e76997568290cd2f62532e7dd34335"
+  },
+  "ManuscriptL1InMeasure": {
+    "origin": "manuscript",
+    "sha256": "3ef979163db68daf8760b8499c953a74212f027d986fa80b94fbd26a45882855"
+  },
+  "ManuscriptLSVApplication": {
+    "origin": "manuscript",
+    "sha256": "fc010c5c28cecb715ebb46661e3cb13a8a5a4e2f2245929c29a0cce444525826"
+  },
+  "ManuscriptLSVCoefficient": {
+    "origin": "manuscript",
+    "sha256": "00ba1abfb9113092cb1590025f57fd18d19b136cc82d1c94e74eac658322028c"
+  },
+  "ManuscriptLSVPriceDifference": {
+    "origin": "manuscript",
+    "sha256": "9c274a8e055b860a13cdc0e22b9f829ee7de7346462ac02cedda18b81df0ca41"
+  },
+  "ManuscriptLimitDensity": {
+    "origin": "manuscript",
+    "sha256": "6631295e9eb1313ff58856eca4835d061ed6466a9a3c0c8419b8737d0533144f"
+  },
+  "ManuscriptLimitNoAtom": {
+    "origin": "manuscript",
+    "sha256": "2e0d7abf2c536b137271e01e1dd51dc36ac3f99104ab21c499d44d28aa6fb8f0"
+  },
+  "ManuscriptLimitPsiMoment": {
+    "origin": "manuscript",
+    "sha256": "16cc8003e5f89cb69e5af4b86f3bb3d7dee6f14c2555cffb8ca4389047fb2ea5"
+  },
+  "ManuscriptLinearCoefficient": {
+    "origin": "manuscript",
+    "sha256": "50a404735907362e349d8681835412e942f8a1e5eaefca1db4dab38dde7e236e"
+  },
+  "ManuscriptLocalForwardBounds": {
+    "origin": "manuscript",
+    "sha256": "bd32ba6ced79513acced6c11226c368912bbf71502ec0ddd01b4739e070a547e"
+  },
+  "ManuscriptLogRatio": {
+    "origin": "manuscript",
+    "sha256": "f3f91bd4f094bd7f3f2b12d1a42d56ac5e739777dccbb3346513645d619e36a5"
+  },
+  "ManuscriptLognormalFluctuation": {
+    "origin": "manuscript",
+    "sha256": "817ae0e21c0466d67b4e9b2b3cb55ea681df2119c6eda5a3a92a751eceb869bd"
+  },
+  "ManuscriptLognormalLaw": {
+    "origin": "manuscript",
+    "sha256": "7e9a0460928b657bb034d8ff5dbe9f70b1ab30012e33b9e05ea604a7a6866fa9"
+  },
+  "ManuscriptLognormalLinearization": {
+    "origin": "manuscript",
+    "sha256": "efb5a3574db6b946660b41afdc65421e350cae6be79761bc289a0856671ebfb1"
+  },
+  "ManuscriptLognormalPut": {
+    "origin": "manuscript",
+    "sha256": "a49e6a6115e993e5e598e8f6d0739ad30401057166d18097a187d71fd45e3136"
+  },
+  "ManuscriptMainCorollary": {
+    "origin": "manuscript",
+    "sha256": "999018edd17a8de4b260cf6f378e98ef4abe771d308daab7871df6e1891e9274"
+  },
+  "ManuscriptMainCorollaryDifference": {
+    "origin": "manuscript",
+    "sha256": "f332c33966a719da4f5d94ebd06201ff2292ba16584bb3e4c13ca7fd7de1591f"
+  },
+  "ManuscriptMainFamily": {
+    "origin": "manuscript",
+    "sha256": "dd99e3af1892d70572663dfe92fb0ed6735a206769c8a98fabe02c1d36dda8aa"
+  },
+  "ManuscriptMainModel": {
+    "origin": "manuscript",
+    "sha256": "4bb68041f3f76b58e63d0723d49a7e87ef80d3228368c17afc1ffd1799b2c81c"
+  },
+  "ManuscriptMainTheorem": {
+    "origin": "manuscript",
+    "sha256": "7edb79fb67fafbf8eba8b1f99898caadfdd0b600deb450895a91e2ebea89aa8d"
+  },
+  "ManuscriptMaturityExpectation": {
+    "origin": "manuscript",
+    "sha256": "1ba7117d0e8b2c7e67e4ee22f9ad90e3703c2f1aba93725eea8d37056cee97b1"
+  },
+  "ManuscriptMaturityRescaling": {
+    "origin": "manuscript",
+    "sha256": "07fb16be64639ac275844c33fffc17bde5824fb65d4db105f524b7a34fb458a8"
+  },
+  "ManuscriptMaturityTripleScaling": {
+    "origin": "manuscript",
+    "sha256": "01a16773048316a1168a4ede2e2f51beba1dfece342d41cd906d1b1d84b3d353"
+  },
+  "ManuscriptMaximumEncoding": {
+    "origin": "manuscript",
+    "sha256": "44857c9bdd3e88959f46de2e9b4b22838ba6f34241e199162da994c630a5180e"
+  },
+  "ManuscriptMaximumNoAtom": {
+    "origin": "manuscript",
+    "sha256": "90c8aea49f8471b8e4da00138c5a4d9433643ed89c49c94cbb60186ac62b072a"
+  },
+  "ManuscriptNoHitReal": {
+    "origin": "manuscript",
+    "sha256": "58daeb619f7866127dc1ea40b5e9cdc1f94ef1b5e049e6a82586528f325d39b8"
+  },
+  "ManuscriptOriginalCentering": {
+    "origin": "manuscript",
+    "sha256": "35a3a1391ca698a546f733af12808dfbe834e9f3c08328d0b0a0440330aa199d"
+  },
+  "ManuscriptOriginalMarginal": {
+    "origin": "manuscript",
+    "sha256": "ebeff1d1679a1900782801350537198da6213bbbf88a9cd88f5f73864eb85929"
+  },
+  "ManuscriptOriginalPathTriple": {
+    "origin": "manuscript",
+    "sha256": "d85d6d93bf1d0df43cdf90252addd27b7a12c4fd60b473c6c579a8617fffe274"
+  },
+  "ManuscriptOriginalPrice": {
+    "origin": "manuscript",
+    "sha256": "a87492eaaa154f7ae72a377958c15462ee932e92bbbab26a2b2b57df4e01c0f9"
+  },
+  "ManuscriptOriginalProfile": {
+    "origin": "manuscript",
+    "sha256": "45eac7dd89884634e3ce562e7626738db3db9fba26aa2b214f4d2eb3ed225184"
+  },
+  "ManuscriptOriginalTriple": {
+    "origin": "manuscript",
+    "sha256": "8364dcf399040f39ce1d171f772d7989d96e980432e9d98764acb85ae0c6118e"
+  },
+  "ManuscriptOtherBarrierAlgebra": {
+    "origin": "manuscript",
+    "sha256": "3863a1707a3062cb97c620c31e7618a75946db1ade4e910a7cf7a9dbf0621fd8"
+  },
+  "ManuscriptPathLimit": {
+    "origin": "manuscript",
+    "sha256": "14701536af473fc97431474e5d1e09cba5145bd2db2a52d8c2b85fd1168f8ef7"
+  },
+  "ManuscriptPayoffScaling": {
+    "origin": "manuscript",
+    "sha256": "619593c4756c459e3a881fd0a9f47263d57f8367911f2eb833e8899b1f06778f"
+  },
+  "ManuscriptPhiAverage": {
+    "origin": "manuscript",
+    "sha256": "233d9a709d8b89dee831ae151af6cd9a41318c4f5648d528f88fad3cac5340c8"
+  },
+  "ManuscriptPowerTriangle": {
+    "origin": "manuscript",
+    "sha256": "930c86700f56ce95056e67c0be80c4642b8f6648ddef7b5d1ea0867cfb4a960c"
+  },
+  "ManuscriptPriceConvexity": {
+    "origin": "manuscript",
+    "sha256": "68dd33933529ccd5e88dd83c37f2d8271806998d38d0f5d9a5f9e1ffcdf8ff67"
+  },
+  "ManuscriptPriceDifferential": {
+    "origin": "manuscript",
+    "sha256": "c6e9a537cb49435a1e8524593bb972f0d0290d7ac9163d73921c1959fc4932a8"
+  },
+  "ManuscriptProbabilityRescaling": {
+    "origin": "manuscript",
+    "sha256": "3a480467cde6534d4adedfd944ad5d18e061c111776f074881f8e6208496d283"
+  },
+  "ManuscriptPsi": {
+    "origin": "manuscript",
+    "sha256": "87a68918411e3d87bae3bb540498c51a9488a83a01560bf2546c487dda04c93f"
+  },
+  "ManuscriptPsiIntegrability": {
+    "origin": "manuscript",
+    "sha256": "613da75c2efc1104b40a371b0047b8c0da681f485e1eb21dd0a70bc798aa995e"
+  },
+  "ManuscriptPsiSemigroup": {
+    "origin": "manuscript",
+    "sha256": "008bd7dfc05a8c27da54e65931b4434a11cd607eaba22ea40f1832e34409c5d6"
+  },
+  "ManuscriptPutTransform": {
+    "origin": "manuscript",
+    "sha256": "6622948c9f742110a7cc379acdb38c78e80d26002e5f1bbd0d15fa1d3f046119"
+  },
+  "ManuscriptRawBrownianScaling": {
+    "origin": "manuscript",
+    "sha256": "79eae7140b89d72de4e647233c1f0df5c1076014cc35fe6f6a9b9105d246e430"
+  },
+  "ManuscriptRawKilledDensity": {
+    "origin": "manuscript",
+    "sha256": "cb51603d804f9ad115d983a66a6dc165e68bcebc071a2b42d7c52df864207ff6"
+  },
+  "ManuscriptRawUnitMeasure": {
+    "origin": "manuscript",
+    "sha256": "7b1184dc792ef344e5a072ff6efc0cfd6451417f920c74a929d9dfd127b60e1f"
+  },
+  "ManuscriptRegularApplication": {
+    "origin": "manuscript",
+    "sha256": "31d4f3f9fc78ae686c19dca7c640330ad67bee0c69da3a18f69d85785d0c0a7a"
+  },
+  "ManuscriptRegularCoordinate": {
+    "origin": "manuscript",
+    "sha256": "9ddf26d6f4039884e2c3a26ca7fcbc251e25359c0c2727bcd542309984ef1b5b"
+  },
+  "ManuscriptRegularJointLimit": {
+    "origin": "manuscript",
+    "sha256": "a52396eb2556e7dcdbbd60675c533736d2d8211dbaa7692afbb60a627d041a67"
+  },
+  "ManuscriptRegularVarianceData": {
+    "origin": "manuscript",
+    "sha256": "de5ffcf54ebfcb9050763b97e717191c894be13f7060d4b715f321e3b4628088"
+  },
+  "ManuscriptRegularVarianceTangent": {
+    "origin": "manuscript",
+    "sha256": "67ff4952603f2d123252a9f4e2518f18051e3552494794804724f6c3effa8100"
+  },
+  "ManuscriptRegularVarianceUI": {
+    "origin": "manuscript",
+    "sha256": "0e1110e6832e3c52d4e084cb133de8ff217295050773a200f3ea05242bd58428"
+  },
+  "ManuscriptRemainder": {
+    "origin": "manuscript",
+    "sha256": "24777f523bb59ac0606c052c51373f2eb4eaa6cccb4c0ab85f41a87119f26292"
+  },
+  "ManuscriptRescaling": {
+    "origin": "manuscript",
+    "sha256": "1e25ce276b83231192aed8dfa4fd8038274e2e3d7832c93bdb8a8d79d8e267de"
+  },
+  "ManuscriptRoughAlphaSlice": {
+    "origin": "manuscript",
+    "sha256": "ab50b0a55e364686ab06fe9e9a6f26941dc6dcf4230b9840766096c18d09db43"
+  },
+  "ManuscriptRoughApplication": {
+    "origin": "manuscript",
+    "sha256": "66acfe3dc00c1e00b4be5e6888296dcca9cb07c966dade31a03ee1b3bf546772"
+  },
+  "ManuscriptRoughBetaReduction": {
+    "origin": "manuscript",
+    "sha256": "751ec5389f0b38233cfbcd3a46c9af922078b39c97178a7dd3ada9a7c182672e"
+  },
+  "ManuscriptRoughCoefficient": {
+    "origin": "manuscript",
+    "sha256": "909b8323fd88125d5df51580ad482bc504265c4dcaa4cc30f870905cdef57d8f"
+  },
+  "ManuscriptRoughCorrelatedMoment": {
+    "origin": "manuscript",
+    "sha256": "13ef8a274ed380906e1d3bdb5bbf2f3fa42b71e06e27fe47fb69d8362f0274b8"
+  },
+  "ManuscriptRoughCutSequence": {
+    "origin": "manuscript",
+    "sha256": "99b406233b958793fd433c24dc5451886aca3ef54a201f5053c254e380b68bc6"
+  },
+  "ManuscriptRoughExplicitApplication": {
+    "origin": "manuscript",
+    "sha256": "63b88a88a01ab0b2e6eb5ebcae7469b2b6412b4bdc126b1c1787b0213cd7c8e2"
+  },
+  "ManuscriptRoughIBP": {
+    "origin": "manuscript",
+    "sha256": "de74ff67a02807c901e43daabae36c4d84dee50e907400b62073b42eeb39e89e"
+  },
+  "ManuscriptRoughIntegralApproximation": {
+    "origin": "manuscript",
+    "sha256": "98102fde6e2cca4236b439f0dddd2338a6073d7e8ad90c39be3ee14e081e2b51"
+  },
+  "ManuscriptRoughIntegralConstruction": {
+    "origin": "manuscript",
+    "sha256": "f1f7c2e7605f91b66bc85b5415d377562faf9b6d77e9cb9874a350a5ba3553ab"
+  },
+  "ManuscriptRoughIntegralJointLaw": {
+    "origin": "manuscript",
+    "sha256": "0e521dd607dc798d031eab84b8727cda251cddec2bd2a8460322850c74e5e78c"
+  },
+  "ManuscriptRoughIntegralLaw": {
+    "origin": "manuscript",
+    "sha256": "af9e9e0a8d64fdcc662a36ef5f0669eb6dc16d490c7129596ad0e472b62d07b5"
+  },
+  "ManuscriptRoughIntegralScaling": {
+    "origin": "manuscript",
+    "sha256": "c93330e52b8f1ad208c1778ac8e0be17f9d5c18949cb5568fdcc7b0517871415"
+  },
+  "ManuscriptRoughJointLimit": {
+    "origin": "manuscript",
+    "sha256": "4a6ef7115ba3b033458bd60fed23312164c60847d57e6a3d271094c0ac0317c8"
+  },
+  "ManuscriptRoughKernel": {
+    "origin": "manuscript",
+    "sha256": "1a624391440c088172ad21a75f2b6a939b11735f54f76379316fce5c610132b5"
+  },
+  "ManuscriptRoughKernelCut": {
+    "origin": "manuscript",
+    "sha256": "85a521502b9663808fbad8c37069586650f717b4ad50ed880eb3e01d415d1436"
+  },
+  "ManuscriptRoughKernelExtension": {
+    "origin": "manuscript",
+    "sha256": "da774b0d0cce483d57de7f9a1b6ac9d6f4adfb383f13a3230f2ccc1f8f76bee6"
+  },
+  "ManuscriptRoughKernelScaling": {
+    "origin": "manuscript",
+    "sha256": "5144f66c246292d532bfbe882494a2a9d81020a10f0120f5df346e9835cf7337"
+  },
+  "ManuscriptRoughKernelTail": {
+    "origin": "manuscript",
+    "sha256": "9d4e2e4817fe88f35f83cd70f2c247336a8cd8dce3b3f8c1216dc0140852818a"
+  },
+  "ManuscriptRoughMaturityLaw": {
+    "origin": "manuscript",
+    "sha256": "b81e509a164aa47fbf8e9fb09d45d57427cfe8648e78f14ba5a19f156221fa54"
+  },
+  "ManuscriptRoughModelCoefficient": {
+    "origin": "manuscript",
+    "sha256": "a739f69b73cf87c559b1111b885bf9005cc2595398f226db735f7cd3144c1bed"
+  },
+  "ManuscriptRoughModelData": {
+    "origin": "manuscript",
+    "sha256": "cee34cba5fa79e06567db88a62d5f6390bfc749b2b1ded21553582a0f4e008fc"
+  },
+  "ManuscriptRoughModelForward": {
+    "origin": "manuscript",
+    "sha256": "612447b38838a0a202d2e558915529662f8f5da938dff6acc073d5d309fece0d"
+  },
+  "ManuscriptRoughModelMoment": {
+    "origin": "manuscript",
+    "sha256": "f4b72d34ffb6169df0241c007ab9aadcf93c04c84fbe0c50197e15bd9e8af370"
+  },
+  "ManuscriptRoughModelUI": {
+    "origin": "manuscript",
+    "sha256": "295d7d3be011a17d8e37628ed2a8760124b7f52fc8014df63aaaa1ee7456be49"
+  },
+  "ManuscriptRoughMomentLimit": {
+    "origin": "manuscript",
+    "sha256": "4641c4f184429a0099d316e45f83536c4ad9409fb1274a06857edc996ae45345"
+  },
+  "ManuscriptRoughPathApproximation": {
+    "origin": "manuscript",
+    "sha256": "4480fda3c3fa6c876ae9f1e96ab60f378cc418f5d562e3c27867aa3e6c149b00"
+  },
+  "ManuscriptRoughStockData": {
+    "origin": "manuscript",
+    "sha256": "d025e64c5f1d665d4f0c6ac2ef7f55f323b9052d56d8059158dcb44a3eba2afd"
+  },
+  "ManuscriptRoughTangentLaw": {
+    "origin": "manuscript",
+    "sha256": "19bebe3b23ac80de1b7e2faeb23e058bcecbb5a2f442c782c48a1de316714964"
+  },
+  "ManuscriptRoughTruncatedMoment": {
+    "origin": "manuscript",
+    "sha256": "f299bf0d12f8b5199f5a1d5b8b53af6f164f7efda366f4f9e0dbef07e41e0f10"
+  },
+  "ManuscriptRoughTwoPathLaw": {
+    "origin": "manuscript",
+    "sha256": "7dd56137da03e11cdf06c8c1d6e5282bc2a75cd41d742e0c3e43ec279084f54a"
+  },
+  "ManuscriptRoughWeightedApproximation": {
+    "origin": "manuscript",
+    "sha256": "9ddc518884e2312c70f0c791911d1a3b3bd9b172d7b61cc6990118fc81706631"
+  },
+  "ManuscriptSABRApplication": {
+    "origin": "manuscript",
+    "sha256": "52f168c955c529f7011e601b1e3673a32e7c9ff9cb7b7c21acc9ee90fd1e8226"
+  },
+  "ManuscriptSABRCoefficient": {
+    "origin": "manuscript",
+    "sha256": "29433f12b4c2f31937643c71ed22c4348152b09d95282fa45c7236f5a2c5a948"
+  },
+  "ManuscriptSABRForward": {
+    "origin": "manuscript",
+    "sha256": "5a8148ab05e71e8483089f8ddb0cafa4bfb87fd65be8bc908233f7fa56bd3d62"
+  },
+  "ManuscriptSABRJointLimit": {
+    "origin": "manuscript",
+    "sha256": "5dff83ebea652f3ef8f7ce882e587958c425ed317238ff74d48f10f9356083f6"
+  },
+  "ManuscriptSABRModelCoefficient": {
+    "origin": "manuscript",
+    "sha256": "11a392ebfb46e7ba430468f01a0acc2a2a995f09ea137fe7aa735f7e60a6acbd"
+  },
+  "ManuscriptSABRModelData": {
+    "origin": "manuscript",
+    "sha256": "b6c3f52c634d69375b55feef5e15a48eafa029deb203866f7be8e988628a332e"
+  },
+  "ManuscriptSABRModelForward": {
+    "origin": "manuscript",
+    "sha256": "182d8b541ddc0aadd06a90631db2a9a456e417c8fa8834d7860976b2e73c97f0"
+  },
+  "ManuscriptSABRModelUI": {
+    "origin": "manuscript",
+    "sha256": "e781460e9e70270a2af0c5749f4d923bf05b71ebc3947a3af1e3740147a9707c"
+  },
+  "ManuscriptSABRPriceDifference": {
+    "origin": "manuscript",
+    "sha256": "a7afe5110ef75a691d6bb1a59a1dfbd1ace830a875db5ba3827b69a53130f5bd"
+  },
+  "ManuscriptSABRTangentLaw": {
+    "origin": "manuscript",
+    "sha256": "ecfc023e42f636b83fe08b3223395d125f033007048015254e538e4028821bf8"
+  },
+  "ManuscriptSABRVariance": {
+    "origin": "manuscript",
+    "sha256": "e566f23df088bc404268f0f48360c97773488d313dfa800d0ea9f0140302b01a"
+  },
+  "ManuscriptSABRVarianceLimit": {
+    "origin": "manuscript",
+    "sha256": "bcc518dd9cb1e5053e7a7ae7341bdeeb23a81ae5b5f8846a0785eaf3adc9b73e"
+  },
+  "ManuscriptSDEBracket": {
+    "origin": "manuscript",
+    "sha256": "4b7cdfd57a7357cf368ef15ba4662482854a6b37ec11a963b5114902e10cbf2e"
+  },
+  "ManuscriptScaledCoefficient": {
+    "origin": "manuscript",
+    "sha256": "e90adc92a963dc9aa13ea27b5d632dd7f86499f506462994bb754e2e0f13b67c"
+  },
+  "ManuscriptSecondMomentUI": {
+    "origin": "manuscript",
+    "sha256": "9afff219acb1939849b06814e5f6f6ccd039d6b8bcef225d2fc9fa3020694ceb"
+  },
+  "ManuscriptSegmentSurvival": {
+    "origin": "manuscript",
+    "sha256": "ecf72ab1d9bb7a1ac6858e89188e2989d9618e9f7f78c213cc5cc59ec24ca395"
+  },
+  "ManuscriptSemimartingaleForward": {
+    "origin": "manuscript",
+    "sha256": "8524f53129ae638335899bcff03fd220ca65a48d0a3c6703de434b6a3635dc46"
+  },
+  "ManuscriptSmallTimeEnergy": {
+    "origin": "manuscript",
+    "sha256": "ec97fb0b084a7fc1b74fa5d601cebe0b4898b6b6f09f4c331a5710a9480efe0e"
+  },
+  "ManuscriptSmoothPrice": {
+    "origin": "manuscript",
+    "sha256": "ef8ceff80a7f2398c588366a11c10c34f50d18b40508fc9efba778b853a17a68"
+  },
+  "ManuscriptSmoothStateApplication": {
+    "origin": "manuscript",
+    "sha256": "2b9a4b9723e5d846b3cc41c83ae968c5c86157a1fb3b2f9e08134db3e056b303"
+  },
+  "ManuscriptSmoothStateData": {
+    "origin": "manuscript",
+    "sha256": "bfbcba63dfb82225525bac7916fa5c4b5bb4478176a53be672c5aa56eafc4a5d"
+  },
+  "ManuscriptSmoothStateForward": {
+    "origin": "manuscript",
+    "sha256": "7d48a2da428ff8bacb7fae34e2d70ee5f8dcba35f53d920ed2d95d7227c0d934"
+  },
+  "ManuscriptSmoothStateJointLimit": {
+    "origin": "manuscript",
+    "sha256": "f056d3e2963112eef97a338ee9f04e4c75fb1a5fc3bf8ed3c631011a434bffc3"
+  },
+  "ManuscriptSmoothStatePriceDifference": {
+    "origin": "manuscript",
+    "sha256": "587aa524a2b698124531e23bee5acd5ca9b15296d2334dfc56f8875e7ab1c882"
+  },
+  "ManuscriptSmoothStateRemainder": {
+    "origin": "manuscript",
+    "sha256": "c7de1d5cc3227e3fde087c281f524009fd925c2d1312662c48a12af5628b6d1a"
+  },
+  "ManuscriptSmoothStateTangent": {
+    "origin": "manuscript",
+    "sha256": "eb67bedcdc757e9757396c8277108be8a1187c7a44cf1b6a5288636ee46c67c5"
+  },
+  "ManuscriptSmoothStateUI": {
+    "origin": "manuscript",
+    "sha256": "88eb64a298c88d8970466883d60d4ede6f5942091f27ecf77a07bb72ca07b41a"
+  },
+  "ManuscriptSmoothTaylorBound": {
+    "origin": "manuscript",
+    "sha256": "1510a618d5ad8f6e1a31b4e1b206cb168c462dd7c94a1761ba4613b0b94f685e"
+  },
+  "ManuscriptSquareMeanConvergence": {
+    "origin": "manuscript",
+    "sha256": "9697af5cda6f07a5fcdbbd72e7d6d52e61074dcda67e2fe123018835f6c94c0f"
+  },
+  "ManuscriptStockCLT": {
+    "origin": "manuscript",
+    "sha256": "67ac594fc3c96859a9bd2dbb5b3ce4d9ec7065ba1a58b79ec809a067e8ded56d"
+  },
+  "ManuscriptStockCoefficientLimit": {
+    "origin": "manuscript",
+    "sha256": "627b6fe0ae574c01a0b39129bcca7f3dd64779a11dbc6b69118596ebd495729a"
+  },
+  "ManuscriptStockCoefficients": {
+    "origin": "manuscript",
+    "sha256": "424ccdcf9f8b5600f24f8c5136c695d97ae781d78e50e8e714eb790b1699d010"
+  },
+  "ManuscriptStockData": {
+    "origin": "manuscript",
+    "sha256": "02b6e39877eb254fc58d4e2f41bc7e0902d71751fa40a7b04391b491155b7e40"
+  },
+  "ManuscriptStockDriftIntegrable": {
+    "origin": "manuscript",
+    "sha256": "0d508afd40190597f96a95f280cf5e0197e4d739326e35864594176588efe6d7"
+  },
+  "ManuscriptStockExpansionLimit": {
+    "origin": "manuscript",
+    "sha256": "1fb52d1ea16ac064994c66a8eae5f24e9eff3348ca6a74a40a217924d531abbd"
+  },
+  "ManuscriptStockExpectation": {
+    "origin": "manuscript",
+    "sha256": "aeb3dbe5df13c2d5016d1af0111da46bd9aa9e644e113772f1a9a7026df5cb02"
+  },
+  "ManuscriptStockModelConstruction": {
+    "origin": "manuscript",
+    "sha256": "66db83d551d8c88a1f9fd9387f0ce1b87deb89f9584df7a8d6b2999be2caaa8d"
+  },
+  "ManuscriptStockPathApproximation": {
+    "origin": "manuscript",
+    "sha256": "8f4402cc3f2fda6f06b6b24e5dd429173f4d8b9a502985c5275d66c46e2bce64"
+  },
+  "ManuscriptStockPathEncoding": {
+    "origin": "manuscript",
+    "sha256": "2bb5f0cae33e298f56b4446f1324fe2b627e1f187f2e8a9d7d3450c4e6103183"
+  },
+  "ManuscriptStoppedBracket": {
+    "origin": "manuscript",
+    "sha256": "08c4cba79e0f92cb613b33d5062a086de0fb3ac56abf3c2c2ab6e4013f95035e"
+  },
+  "ManuscriptStoppedClockIto": {
+    "origin": "manuscript",
+    "sha256": "15ef8562bdc3f3c48e295029560cc3da65a1a6a8286c4af2149927e8e26dec51"
+  },
+  "ManuscriptStoppedExpectation": {
+    "origin": "manuscript",
+    "sha256": "9e52a9bc5fb78e77e1231af7efe13f0e4695b8c4fb45d8a27e0ac9a8ca5e087c"
+  },
+  "ManuscriptStrictExpansion": {
+    "origin": "manuscript",
+    "sha256": "37c5bbeec511b13c0d3367bf79a95b34cd45256234ec19d5b0f6714584276c88"
+  },
+  "ManuscriptSurvivalKernel": {
+    "origin": "manuscript",
+    "sha256": "5ae0822c47bc9dce4acc007cba48a95a590eb507b1931ed8113123cdeefe851b"
+  },
+  "ManuscriptTerminal": {
+    "origin": "manuscript",
+    "sha256": "2e9a9d37594958e6e0c86112cb1fd8f7f5de17e1a85e2467a76bdd99b6b77033"
+  },
+  "ManuscriptTerminalExpectation": {
+    "origin": "manuscript",
+    "sha256": "b7517367449c59feeaf516caa685b1d98f753d84507e29f06c3b346584d180d2"
+  },
+  "ManuscriptTiltedGaussianPut": {
+    "origin": "manuscript",
+    "sha256": "b5da0fdc49d6cd13b964dc35b81e848a4a0fb224516516f946af11b55e8cf153"
+  },
+  "ManuscriptTimeIntegral": {
+    "origin": "manuscript",
+    "sha256": "f18efcc212e330cb5465bec74b9f6e3a99fddd390129199d840701864544e829"
+  },
+  "ManuscriptTimeScaling": {
+    "origin": "manuscript",
+    "sha256": "235ad9d12cd681d8f00bb5c13ee5a7f5d757935a8b652b57e39b8c4a38ec8a30"
+  },
+  "ManuscriptTimeTriangle": {
+    "origin": "manuscript",
+    "sha256": "0270400b02b214126bed0b605b58f14c715378b687835a4f546c2cf4235c32f2"
+  },
+  "ManuscriptTranslateKernel": {
+    "origin": "manuscript",
+    "sha256": "05afe1d520f10641907e4a2317dbfc397c481677edda33d076eeeaf18fd43c1e"
+  },
+  "ManuscriptTruncatedCall": {
+    "origin": "manuscript",
+    "sha256": "9a8bd3fb277b578fe90affce0bf296c4e42b6d2ea741d68d2559c8026d168c4a"
+  },
+  "ManuscriptTruncatedIntegralPath": {
+    "origin": "manuscript",
+    "sha256": "c4e3b65ab58dc8cc454ed0bb6bacc7d7b5714a44fcc4a062a82a3b5a228edc1f"
+  },
+  "ManuscriptTruncatedPut": {
+    "origin": "manuscript",
+    "sha256": "56e6e2c9f281dbbab215fd7a9390156401adf977f772e4f9c6ff7818fc1b5715"
+  },
+  "ManuscriptTruncation": {
+    "origin": "manuscript",
+    "sha256": "944256f299b069570eb90743c9f7360b087ec66a50799edc323d4de2b5374a1a"
+  },
+  "ManuscriptUniformIntegrability": {
+    "origin": "manuscript",
+    "sha256": "3b58ae9dd153c2c5b805f318bacdec1b6ddf4d140b80bb53bb6f8b3ced8bc18c"
+  },
+  "ManuscriptVarianceClock": {
+    "origin": "manuscript",
+    "sha256": "b27ea5b3a309358f4bcbeb715d57b64bbe84558ca95860a1cfe7f3a8fea47815"
+  },
+  "ManuscriptVarianceIto": {
+    "origin": "manuscript",
+    "sha256": "4e611d246c6610fd4a4e18708605d9d5e57ecf1ec67df7acb1283c0874a2930d"
+  },
+  "ManuscriptVaryingKernel": {
+    "origin": "manuscript",
+    "sha256": "7d71425e7f3eb63b1562f246657d70220fd9af2152a8fe5971f5755b5a12b3ad"
+  },
+  "ManuscriptVaryingLenglart": {
+    "origin": "manuscript",
+    "sha256": "e0f0e2735e74015a297916979977cb9718cc471ac71d8da23e27f0a973af247f"
+  },
+  "ManuscriptVolatilityStability": {
+    "origin": "manuscript",
+    "sha256": "c4acc7a4195a62a8b678f4acf46f9f88407a1a715ca9cd0f6d190b7881f739c7"
+  },
+  "ManuscriptWeakExpectation": {
+    "origin": "manuscript",
+    "sha256": "4096e2d8e1bb187deb5fd0d0d2fbb540a1e2e4b77b6574fb49b69f1a71504b04"
+  },
+  "ManuscriptWeakMapping": {
+    "origin": "manuscript",
+    "sha256": "e547bdc5dd1883a82e42590036ff82360f0fc4f48a9a8f871aeeeee258d0ceec"
+  },
+  "ManuscriptWeakUI": {
+    "origin": "manuscript",
+    "sha256": "aef91908f938e58b0360219d02ee2bf53a55afeeede5ba11d2a9dfe8a3472f94"
+  },
+  "ManuscriptWeightedKernelComposition": {
+    "origin": "manuscript",
+    "sha256": "bd7092bba220c93491a1e86e8d0a4d4ee7df78723b24b261f6e94b00715beb62"
+  },
+  "ManuscriptWeightedL2Limit": {
+    "origin": "manuscript",
+    "sha256": "e0da4f552bf817aa9b047975d9723be47827732b2e95845a6755522fa52ac316"
+  },
+  "ManuscriptWeightedPathIntegral": {
+    "origin": "manuscript",
+    "sha256": "bbb9bcdc5ceb495e241bdafa07653f3415d2b74d61ea0f57dacd4ffef2da1d80"
+  }
+}
